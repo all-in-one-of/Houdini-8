@@ -1,2 +1,4 @@
 backup/
+render/
 *.exr
+*.pc
